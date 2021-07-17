@@ -1,0 +1,24 @@
+{
+  "name": "dyte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ritikgupt/Dyte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ritikgupt/Dyte/issues"
+  },
+  "homepage": "https://github.com/ritikgupt/Dyte#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "server": "^1.0.34"
+  }
+}
